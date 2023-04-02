@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sriman
 ==============================================================================================================================
 
-Software Developer
+Software Engineer
 ------------------
 
 "Experienced Automation Engineer with a passion for technology and development. Skilled in Selenium Web and API testing, with a focus on delivering high-quality and reliable software. Driven to constantly expand my knowledge and skills, currently exploring Java full-stack development and blockchain technology. Committed to using my expertise to contribute to the growth and success of innovative projects."
