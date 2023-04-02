@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 ------------------
 
-"Experienced Automation Engineer with a passion for technology and development. Skilled in Selenium Web and API testing, with a focus on delivering high-quality and reliable software. Driven to constantly expand my knowledge and skills, currently exploring Java full-stack development and blockchain technology. Committed to using my expertise to contribute to the growth and success of innovative projects."
+"Experienced Automation Engineer and Java developer with a passion for technology and development. Skilled in Selenium Web and API testing, Java technoligies and the frameworks with a focus on delivering high-quality and reliable software. Driven to constantly expand my knowledge and skills, currently exploring blockchain technology. Committed to using my expertise to contribute to the growth and success of innovative projects."
 
 * 🌍  I'm based in Hyderabad, India
 * ✉️  You can contact me at [srimannaidu784@gmail.com](mailto:srimannaidu784@gmail.com)
