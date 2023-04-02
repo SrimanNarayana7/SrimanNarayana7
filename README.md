@@ -7,7 +7,7 @@ Software Engineer
 "Experienced Automation Engineer and Java developer with a passion for technology and development. Skilled in Selenium Web and API testing, Java technoligies and the frameworks with a focus on delivering high-quality and reliable software. Driven to constantly expand my knowledge and skills, currently exploring blockchain technology. Committed to using my expertise to contribute to the growth and success of innovative projects."
 
 * 🌍  I'm based in Hyderabad, India
-* ✉️  You can contact me at [srimannaidu784@gmail.com](mailto:srimannaidu784@gmail.com)
+* ✉️  You can contact me at [srimannarayanakode@gmail.com](mailto:srimannarayanakode@gmail.com)
 * 🧠  I'm learning Block Chain Technology and Java Full Stack development
 * 🤝  I'm open to collaborating on Automation projects, Java Full stack projects
 * ⚡  I'm a Photographer too 😎
